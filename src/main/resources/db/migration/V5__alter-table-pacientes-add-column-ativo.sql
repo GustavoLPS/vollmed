@@ -1,0 +1,1 @@
+ALTER TABLE pacientes ADD ativo BOOLEAN DEFAULT TRUE;
